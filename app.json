@@ -11,7 +11,7 @@
       "bundleIdentifier": "com.seunome.dengo"
     },
     "android": {
-      "package": "com.seunome.dengo",
+      "package": "com.dengo.casal",
       "googleServicesFile": "./google-services.json"
     }
   }
