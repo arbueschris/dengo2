@@ -5,7 +5,14 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
-    "plugins": ["expo-notifications"],
+    "plugins": [
+      "expo-notifications"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "37a81fa7-6fa8-48b5-8039-5373fa08d8c5"
+      }
+    },
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.seunome.dengo"
