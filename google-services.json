@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302787152539",
+    "project_id": "dengo-a33d6",
+    "storage_bucket": "dengo-a33d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302787152539:android:d5578cfd180bae5d91543e",
+        "android_client_info": {
+          "package_name": "com.dengo.casal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI6T5xBGiKTQSXtPBgGYpRZH1q-o5AHC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
