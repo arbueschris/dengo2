@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Dengo",
+    "slug": "dengo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-notifications"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.seunome.dengo"
+    },
+    "android": {
+      "package": "com.seunome.dengo",
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}
